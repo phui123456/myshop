@@ -1,0 +1,6 @@
+com\phui\my\shop\commons\commonutils\Constant.class
+com\phui\my\shop\commons\commonutils\CookieUtils.class
+com\phui\my\shop\commons\dto\BaseResult.class
+com\phui\my\shop\commons\utils\RegexpUtils.class
+com\phui\my\shop\commons\dto\PageInfo.class
+com\phui\my\shop\commons\lasting\BaseEntity.class
